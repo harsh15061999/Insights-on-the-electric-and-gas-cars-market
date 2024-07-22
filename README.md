@@ -1,5 +1,7 @@
 # Insights-on-the-electric-and-gas-cars-market
 
+![Story 1](https://github.com/user-attachments/assets/a2193c57-f74e-499a-b55c-13458a3bfe0a)
+
 Project Overview:
 
 The "Insights on the Electric and Gas Cars Market" project is a comprehensive data analysis and visualization initiative aimed at exploring and comparing market trends in the electric and gas car sectors. This project utilizes various data sources to analyze market share, sales trends, consumer preferences, and other key metrics, providing valuable insights for stakeholders, industry professionals, and enthusiasts.
